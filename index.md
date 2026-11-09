@@ -23,7 +23,7 @@ The Problem Students at UH Mānoa often have a hard time finding reliable study 
 The Solution NoteShare Mānoa is a simple, free website built specifically for UH students. Users must register with a valid @hawaii.edu email address. This keeps the site safe and focused on our campus. Students can upload, search, and rate class notes, study guides, and project examples. The site organizes all materials by course number, semester, and professor name so students can find exactly what they need.
 
 ## Deployment
-- [Link to the live deployed application]
+- [Link to the live deployed application](https://github.com/uh-class-notes/uh-class-notes)
 - [Brief notes on the deployment environment or hosting service]
 
 ## User Guide
