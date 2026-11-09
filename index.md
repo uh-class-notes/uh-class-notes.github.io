@@ -41,12 +41,12 @@ User Profile Page: A page that shows the notes a student has uploaded, the notes
 
 ### Course Search Page
 - [Description of the course search pages and what they display]
-- [Screenshot: `images/course-search-page.png`]
+![Description](images/course-search-page.png)
 Course Search Page: A page with a search bar and filters. Users can type in a class (like “ICS 314”) and filter the results by semester or professor. The results show a list of available notes with their average user rating.
 
 ### Note Viewing Page
 - [Description of the note viewing pages and what they display]
-- [Screenshot: `images/note-viewing-page.webp`]
+![Description](image/images/note-viewing-page.webpg)
 Note Viewing Page: A page where users can read or download a specific document. On the side, there are buttons to upvote or downvote the note, leave a comment, and save it to their personal account.
 
 ### Index Pages
