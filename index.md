@@ -55,3 +55,126 @@ etc.
 * [Team Member 2 Name]
 * [Team Member 3 Name]
 * [Team Member 4 Name]
+
+
+
+Given Example Layout 
+
+
+# [Project Name]
+
+## Table of contents
+* [Overview](#overview)
+* [Deployment](#deployment)
+* [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
+* [Developer Guide](#developer-guide)
+* [Development History](#development-history)
+* [Continuous Integration](#continuous-integration)
+* [Walkthrough](#walkthrough)
+* [Example enhancements](#example-enhancements)
+* [Team](#team)
+
+## Overview
+- [Brief description of the project and its purpose]
+- [List of core technologies/frameworks used]
+- [List of key design concepts or patterns implemented]
+
+## Deployment
+- [Link to the live deployed application]
+- [Brief notes on the deployment environment or hosting service]
+
+## User Guide
+### Landing Page
+- [Description of the landing page]
+- [Screenshot: `images/landing-page.png`]
+
+### Index Pages
+- [Description of the public index pages and what they display]
+- [Screenshot: `images/index-page.png`]
+
+### Sign in and Sign up
+- [Description of the authentication flow]
+- [Screenshot: `images/signin-page.png`]
+- [Screenshot: `images/signup-page.png`]
+
+### Home Page
+- [Description of the authenticated user home page]
+- [Screenshot: `images/home-page.png`]
+
+### Add [Entity] Page
+- [Description of the data creation form]
+- [Screenshot: `images/add-page.png`]
+
+### Filter Page
+- [Description of the query/filter functionality and results display]
+- [Screenshot: `images/filter-page.png`]
+
+## Community Feedback
+- [Brief invitation to users to share their experience]
+- [Link to feedback form]
+
+## Developer Guide
+### Installation
+- [Step 1: Prerequisites]
+- [Step 2: Repository setup (clone/fork/template)]
+- [Step 3: Dependency installation command]
+- [Step 4: Command to run the application locally]
+
+### Application Design
+- [Base templates, boilerplates, or architectural patterns used]
+- [Links to relevant external documentation]
+
+### Data Model
+- [Description of primary collections/entities]
+- [Description of join collections or many-to-many relationships]
+- [Screenshot: `images/data-model.png`]
+
+### Initialization
+- [Details on configuration/settings files]
+- [Instructions for loading default data or assets]
+
+### Quality Assurance
+#### ESLint
+- [Instructions for running the linter]
+- [Expected successful output example]
+
+#### End-to-End Testing
+- [Testing framework used]
+- [Instructions for running tests in development mode]
+- [Instructions for running tests in continuous integration (CI) mode]
+
+## From Mockup to Production
+- [List of security-related, performance, or production-ready changes required or implemented]
+
+## Continuous Integration
+- [CI status badge]
+- [Brief description of the CI pipeline (e.g., GitHub Actions, what it runs)]
+- [Link to the workflow definition file]
+
+## Development History
+- [Brief description of the project management methodology used, e.g., Issue Driven Project Management]
+
+### Milestone 1: [Milestone Name]
+- [Goal of the milestone]
+- [Link to Project Board and/or Screenshot: `images/project-board-1.png`]
+
+### Milestone 2: [Milestone Name]
+- [Goal of the milestone]
+- [Link to Project Board and/or Screenshot: `images/project-board-2.png`]
+
+### Milestone 3: [Milestone Name]
+- [Goal of the milestone]
+- [Link to Project Board and/or Screenshot: `images/project-board-3.png`]
+
+## Walkthrough 
+- []
+
+## Example enhancements
+- [List of potential future improvements, stretch goals, or simple tasks for new developers to practice with]
+
+## Team
+- [Team Member 1 Name](Link to profile/GitHub)
+- [Team Member 2 Name](Link to profile/GitHub)
+- [Team Member 3 Name](Link to profile/GitHub)
+- [Team Member 3 Name](Link to profile/GitHub)
