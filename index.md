@@ -3,9 +3,7 @@ layout: default
 title: UH Class Notes
 ---
 
-# Example Layout 
-
-# [UH Class Notes]
+# UH Class Notes
 
 ## Table of contents
 * [Overview](#overview)
@@ -30,41 +28,45 @@ The Solution NoteShare Mānoa is a simple, free website built specifically for U
 
 ## User Guide
 ### Home Page
-- Home Page Ideas
-- [Screenshot: `images/home-page.png`]
 Home Page: A clean page built with Bootstrap 5 that explains what the site does. It features a large button to “Sign in with UH Email”.
 
+![Home Page](images/home-page.png)
+
 ### Landing Page
-- Landing Page Ideas
-- [Screenshot: `image/landing-page.png`]
-User Profile Page: A page that shows the notes a student has uploaded, the notes they have saved, and the classes they are currently taking.t shows the notes a student has uploaded, the notes they have saved, and the classes they are currently taking.
+User Profile Page: A page that shows the notes a student has uploaded, the notes they have saved, and the classes they are currently taking.
+
+![Landing Page](images/landing-page.png)
 
 ### Course Search Page
-- [Description of the course search pages and what they display]
-![Description](images/course-search-page.png)
 Course Search Page: A page with a search bar and filters. Users can type in a class (like “ICS 314”) and filter the results by semester or professor. The results show a list of available notes with their average user rating.
 
+![Course Search Page](images/course-search-page.png)
+
 ### Note Viewing Page
-- [Description of the note viewing pages and what they display]
-![Description](image/images/note-viewing-page.webpg)
 Note Viewing Page: A page where users can read or download a specific document. On the side, there are buttons to upvote or downvote the note, leave a comment, and save it to their personal account.
+
+![Note Viewing Page](images/note-viewing-page.png)
 
 ### Index Pages
 - [Description of the public index pages and what they display]
-- [Screenshot: `images/index-page.png`]
+
+![Index Page](images/index-page.png)
 
 ### Sign in and Sign up
 - [Description of the authentication flow]
-- [Screenshot: `images/signin-page.png`]
-- [Screenshot: `images/signup-page.png`]
+
+![Sign-in Page](images/signin-page.png)
+![Sign-up Page](images/signup-page.png)
 
 ### Add [Entity] Page
 - [Description of the data creation form]
-- [Screenshot: `images/add-page.png`]
+
+![Add Page](images/add-page.png)
 
 ### Filter Page
 - [Description of the query/filter functionality and results display]
-- [Screenshot: `images/filter-page.png`]
+
+![Filter Page](images/filter-page.png)
 
 ## Community Feedback
 - [Brief invitation to users to share their experience]
@@ -84,7 +86,8 @@ Note Viewing Page: A page where users can read or download a specific document. 
 ### Data Model
 - [Description of primary collections/entities]
 - [Description of join collections or many-to-many relationships]
-- [Screenshot: `images/data-model.png`]
+
+![Data Model](images/data-model.png)
 
 ### Initialization
 - [Details on configuration/settings files]
@@ -113,15 +116,21 @@ Note Viewing Page: A page where users can read or download a specific document. 
 
 ### Milestone 1: [Milestone Name]
 - [Goal of the milestone]
-- [Link to Project Board and/or Screenshot: `images/project-board-1.png`]
+- [Link to Project Board and/or Screenshot]
+
+![Project Board 1](images/project-board-1.png)
 
 ### Milestone 2: [Milestone Name]
 - [Goal of the milestone]
-- [Link to Project Board and/or Screenshot: `images/project-board-2.png`]
+- [Link to Project Board and/or Screenshot]
+
+![Project Board 2](images/project-board-2.png)
 
 ### Milestone 3: [Milestone Name]
 - [Goal of the milestone]
-- [Link to Project Board and/or Screenshot: `images/project-board-3.png`]
+- [Link to Project Board and/or Screenshot]
+
+![Project Board 3](images/project-board-3.png)
 
 ## Walkthrough 
 - []
@@ -130,7 +139,7 @@ Note Viewing Page: A page where users can read or download a specific document. 
 - [List of potential future improvements, stretch goals, or simple tasks for new developers to practice with]
 
 ## Team
-- [Brian Joseph](https://github.com/)
+- [Brian Joseph](https://github.com)
 - [Kenneth Chun](https://github.com/Kenneth-Chun)
 - [Caden Sato](https://github.com/CSato8)
-- [Walker Sun](https://github.com/)
+- [Walker Sun](https://github.com)
