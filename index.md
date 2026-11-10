@@ -47,26 +47,16 @@ Note Viewing Page: A page where users can read or download a specific document. 
 
 ![Note Viewing Page](images/note-viewing-page.png)
 
-### Index Pages
-- [Description of the public index pages and what they display]
-
-![Index Page](images/index-page.png)
-
 ### Sign in and Sign up
 - [Description of the authentication flow]
 
 ![Sign-in Page](images/signin-page.png)
 ![Sign-up Page](images/signup-page.png)
 
-### Add [Entity] Page
+### Create Note Page
 - [Description of the data creation form]
 
 ![Add Page](images/add-page.png)
-
-### Filter Page
-- [Description of the query/filter functionality and results display]
-
-![Filter Page](images/filter-page.png)
 
 ## Community Feedback
 - [Brief invitation to users to share their experience]
