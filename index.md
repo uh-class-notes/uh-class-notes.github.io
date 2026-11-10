@@ -139,7 +139,7 @@ Note Viewing Page: A page where users can read or download a specific document. 
 - [List of potential future improvements, stretch goals, or simple tasks for new developers to practice with]
 
 ## Team
-- [Brian Joseph](https://github.com)
+- [Brian Joseph](https://github.com/bjoseph923)
 - [Kenneth Chun](https://github.com/Kenneth-Chun)
 - [Caden Sato](https://github.com/CSato8)
-- [Walker Sun](https://github.com)
+- [Walker Sun](https://github.com/wsun6)
