@@ -43,9 +43,14 @@ Course Search Page: A page with a search bar and filters. Users can type in a cl
 ![Course Search Page](images/course-search-page.png)
 
 ### Note Viewing Page
-Note Viewing Page: A page where users can read or download a specific document. On the side, there are buttons to upvote or downvote the note, leave a comment, and save it to their personal account.
+Note Viewing Page: A page where users can view all posted notes or click on a card to read a specific document. On the side, there is a search bar for specific classes and a sort by feature that filters by semester, professor, and whether the user bookmarked a note.
 
 ![Note Viewing Page](images/note-viewing-page.png)
+
+### Your Notes Page
+Your Notes Page: A similar page to Note Viewing Page that displays all the notes the user has created. Buttons on the side still allow for sorting by class, semester, and professor. The card now has a button that allows for the user to edit their post.
+
+![Your Notes Page](images/your-notes-page.png)
 
 ### Sign in and Sign up
 - [Description of the authentication flow]
@@ -54,9 +59,9 @@ Note Viewing Page: A page where users can read or download a specific document. 
 ![Sign-up Page](images/signup-page.png)
 
 ### Create Note Page
-- [Description of the data creation form]
+Create Note Page: Displays a form for the posting of a user's notes. In the form, there is a text input for the title, name of the class, name of the professor, and a description of the notes. A dropdown is used for selecting a semester. A section for uploading images is at the bottom.
 
-![Add Page](images/add-page.png)
+![Add Page](images/create-note-page.png)
 
 ## Community Feedback
 - [Brief invitation to users to share their experience]
