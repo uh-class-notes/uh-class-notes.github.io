@@ -37,15 +37,15 @@ User Profile Page: A page that shows the notes a student has uploaded, the notes
 
 ![Landing Page](images/landing-page.png)
 
-### Course Search Page
-Course Search Page: A page with a search bar and filters. Users can type in a class (like “ICS 314”) and filter the results by semester or professor. The results show a list of available notes with their average user rating.
-
-![Course Search Page](images/course-search-page.png)
-
 ### Note Viewing Page
 Note Viewing Page: A page where users can view all posted notes or click on a card to read a specific document. On the side, there is a search bar for specific classes and a sort by feature that filters by semester, professor, and whether the user bookmarked a note.
 
 ![Note Viewing Page](images/note-viewing-page.png)
+
+### Read Note Page
+Read Note Page: Accessed from clicking on a card form the Note Viewing Page. Displays all images in the post in a expanded view along with the title, class, professor, and semester. There is a bookmark and now a download button in the top right that allows users to save a specific note.
+
+![Read Note Page](images/read-note-page.png)
 
 ### Your Notes Page
 Your Notes Page: A similar page to Note Viewing Page that displays all the notes the user has created. Buttons on the side still allow for sorting by class, semester, and professor. The card now has a button that allows for the user to edit their post.
@@ -62,6 +62,11 @@ Your Notes Page: A similar page to Note Viewing Page that displays all the notes
 Create Note Page: Displays a form for the posting of a user's notes. In the form, there is a text input for the title, name of the class, name of the professor, and a description of the notes. A dropdown is used for selecting a semester. A section for uploading images is at the bottom.
 
 ![Add Page](images/create-note-page.png)
+
+### Edit Note Page
+Edit Note Page: Similar to Create Note Page. Displays the details of the current post and allows for the original user to edit aspects of it. At the bottom there is a cancel or confirm button that saves the changes.
+
+![Edit Note Page](images/edit-note-page.png)
 
 ## Community Feedback
 - [Brief invitation to users to share their experience]
