@@ -145,6 +145,3 @@ Edit Note Page: Similar to Create Note Page. Displays the details of the current
 
 ### Team Documentation
 - [Team Collaboration Agreement](https://docs.google.com/document/d/1-0eQiXwZ9dPu8a4zg0SXt7MwM6YCHCtMapUfO-PRrIM/edit?usp=sharing) *(Public view-only link)*
-
-## Team Contract
-- https://docs.google.com/document/d/1-0eQiXwZ9dPu8a4zg0SXt7MwM6YCHCtMapUfO-PRrIM/edit?tab=t.0#heading=h.ovwpe872mtfl
