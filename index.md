@@ -30,7 +30,7 @@ The Solution NoteShare Mānoa is a simple, free website built specifically for U
 ### Home Page
 Home Page: A clean page built with Bootstrap 5 that explains what the site does. It features a large button to “Sign in with UH Email”.
 
-![Home Page](images/home-page.png)
+![Home Page](images/before-signin-page.png)
 
 ### Landing Page
 User Profile Page: A page that shows the notes a student has uploaded, the notes they have saved, and the classes they are currently taking.
@@ -53,10 +53,9 @@ Your Notes Page: A similar page to Note Viewing Page that displays all the notes
 ![Your Notes Page](images/your-notes-page.png)
 
 ### Sign in and Sign up
-- [Description of the authentication flow]
+Sign in Page: A form that allows users to sign in with their UH email and password.
 
-![Sign-in Page](images/signin-page.png)
-![Sign-up Page](images/signup-page.png)
+![Sign-in Page](images/sign-in-page.png)
 
 ### Create Note Page
 Create Note Page: Displays a form for the posting of a user's notes. In the form, there is a text input for the title, name of the class, name of the professor, and a description of the notes. A dropdown is used for selecting a semester. A section for uploading images is at the bottom.
