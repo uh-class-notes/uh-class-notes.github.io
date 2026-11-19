@@ -22,9 +22,20 @@ The Problem Students at UH Mānoa often have a hard time finding reliable study 
 
 The Solution NoteShare Mānoa is a simple, free website built specifically for UH students. Users must register with a valid @hawaii.edu email address. This keeps the site safe and focused on our campus. Students can upload, search, and rate class notes, study guides, and project examples. The site organizes all materials by course number, semester, and professor name so students can find exactly what they need.
 
+### Frameworks and Tools
+- [Next.js](https://nextjs.org/) for server-rendered React application routing and implementation.
+- [React](https://reactjs.org/) for component-based UI implementation.
+- [React Bootstrap](https://react-bootstrap.github.io/) for responsive UI design.
+- [TypeScript](https://www.typescriptlang.org/) for type-safe application development.
+- [Prisma](https://www.prisma.io/) for database access and data modeling.
+- [PostgreSQL](https://www.postgresql.org/) for persistent application data.
+- [Playwright](https://playwright.dev/) for end-to-end browser testing.
+
 ## Deployment
-- [Link to the live deployed application](https://github.com/uh-class-notes/uh-class-notes)
-- [Brief notes on the deployment environment or hosting service]
+### Vercel
+- [Visit the live application](https://uh-class-notes.vercel.app/) - The deployed NoteShare Mānoa website.
+### Github link
+- [View the GitHub organization and repositories](https://github.com/uh-class-notes) - Source code and project resources.
 
 ## User Guide
 ### Home Page
@@ -114,15 +125,15 @@ Edit Note Page: Similar to Create Note Page. Displays the details of the current
 ## Development History
 - [Brief description of the project management methodology used, e.g., Issue Driven Project Management]
 
-### Milestone 1: [Milestone Name]
-- [Goal of the milestone]
-- [Link to Project Board and/or Screenshot]
+### Milestone 1: Initial Application Release
+- Deliver a deployed landing page, core page mockups, project documentation, and the initial M1 project-board setup.
+- [Link to Project Board and/or Screenshot](https://github.com/orgs/uh-class-notes/projects/1/views/1)
 
 ![Project Board 1](images/project-board-1.png)
 
-### Milestone 2: [Milestone Name]
-- [Goal of the milestone]
-- [Link to Project Board and/or Screenshot]
+### Milestone 2: Expanded Database-Backed Application
+- Significantly expand the deployed application with additional pages and database read and write functionality.
+- [Link to Project Board and/or Screenshot](https://github.com/orgs/uh-class-notes/projects/2/views/1)
 
 ![Project Board 2](images/project-board-2.png)
 
@@ -139,7 +150,6 @@ Edit Note Page: Similar to Create Note Page. Displays the details of the current
 - [List of potential future improvements, stretch goals, or simple tasks for new developers to practice with]
 
 ## Team
-- [Brian Joseph](https://github.com/bjoseph923)
 - [Kenneth Chun](https://github.com/Kenneth-Chun)
 - [Caden Sato](https://github.com/CSato8)
 - [Walker Sun](https://github.com/wsun6)
