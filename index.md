@@ -61,6 +61,7 @@ Sign in Page: A form that allows users to sign in with their UH email and passwo
 Create Note Page: Displays a form for the posting of a user's notes. In the form, there is a text input for the title, name of the class, name of the professor, and a description of the notes. A dropdown is used for selecting a semester. A section for uploading images is at the bottom.
 
 ![Add Page](images/create-note-page.png)
+![Add Page2](images/create-note-page2.png)
 
 ### Edit Note Page
 Edit Note Page: Similar to Create Note Page. Displays the details of the current post and allows for the original user to edit aspects of it. At the bottom there is a cancel or confirm button that saves the changes.
