@@ -32,10 +32,10 @@ The Solution NoteShare Mānoa is a simple, free website built specifically for U
 - [Playwright](https://playwright.dev/) for end-to-end browser testing.
 
 ## Deployment
-### Vercel
-- [Visit the live application](https://uh-class-notes.vercel.app/) - The deployed NoteShare Mānoa website.
-### Github link
-- [View the GitHub organization and repositories](https://github.com/uh-class-notes) - Source code and project resources.
+**Live application:** [Visit NoteShare Mānoa](https://uh-class-notes.vercel.app/)  
+**Source code:** [View the GitHub organization and repositories](https://github.com/uh-class-notes)  
+
+The live application is hosted on Vercel, while the GitHub organization contains the project's source code and repositories.
 
 ## User Guide
 ### Home Page
@@ -126,14 +126,14 @@ Edit Note Page: Similar to Create Note Page. Displays the details of the current
 - [Brief description of the project management methodology used, e.g., Issue Driven Project Management]
 
 ### Milestone 1: Initial Application Release
-- Deliver a deployed landing page, core page mockups, project documentation, and the initial M1 project-board setup.
-- [Link to Project Board and/or Screenshot](https://github.com/orgs/uh-class-notes/projects/1/views/1)
+- **Goal:** Deliver a deployed landing page, core page mockups, project documentation, and the initial M1 project-board setup.
+- **Project Board:** [View M1 completed issues](https://github.com/orgs/uh-class-notes/projects/1/views/1)
 
 ![Project Board 1](images/project-board-1.png)
 
 ### Milestone 2: Expanded Database-Backed Application
-- Significantly expand the deployed application with additional pages and database read and write functionality.
-- [Link to Project Board and/or Screenshot](https://github.com/orgs/uh-class-notes/projects/2/views/1)
+- **Goal:** Significantly expand the deployed application with additional pages and database read and write functionality.
+- **Project Board:** [View M2 issues](https://github.com/orgs/uh-class-notes/projects/2/views/1)
 
 ![Project Board 2](images/project-board-2.png)
 
